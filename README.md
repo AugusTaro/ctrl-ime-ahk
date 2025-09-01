@@ -14,9 +14,13 @@
 
 ## 使い方
 
-**前提条件**: AutoHotkey v1.1系がインストールされている必要があります。
+最新リリースから ctrl-ime-ahk.exe をダウンロードして好きな場所に置き、起動してください。タスクトレイに常駐します。
 
-ctrl-ime-ahk.ahk をAutoHotkeyでコンパイルして ctrl-ime-ahk.exe を生成し、好きな場所に置いて起動してください。タスクトレイに常駐します。
+**ダウンロード:** [ctrl-ime-ahk v1.0.0](https://github.com/AugusTaro/ctrl-ime-ahk/releases/download/1.0.0/ctrl-ime-ahk.exe) から ctrl-ime-ahk.exe をダウンロードしてください。
+
+### 自分でコンパイルする場合
+
+**前提条件**: AutoHotkey v1.1系がインストールされている必要があります。
 
 **コンパイル方法:**
 ```bash
